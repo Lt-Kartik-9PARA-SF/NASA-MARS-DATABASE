@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NASA-MARS-DATABASE/static/css/main.33f16c80.css",
+    "main.js": "/NASA-MARS-DATABASE/static/js/main.b0556991.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NASA-MARS-DATABASE/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Background.jpg": "/NASA-MARS-DATABASE/static/media/Background.b9b884591dc484495e56.jpg",
+    "static/media/logo.svg": "/NASA-MARS-DATABASE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NASA-MARS-DATABASE/index.html",
+    "main.33f16c80.css.map": "/NASA-MARS-DATABASE/static/css/main.33f16c80.css.map",
+    "main.b0556991.js.map": "/NASA-MARS-DATABASE/static/js/main.b0556991.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NASA-MARS-DATABASE/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f16c80.css",
+    "static/js/main.b0556991.js"
+  ]
+}
