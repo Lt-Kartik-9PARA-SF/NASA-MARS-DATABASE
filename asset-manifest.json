@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/NASA-MARS-DATABASE/static/css/main.b94dd61b.css",
-    "main.js": "/NASA-MARS-DATABASE/static/js/main.b0556991.js",
+    "main.css": "/NASA-MARS-DATABASE/static/css/main.7ea476de.css",
+    "main.js": "/NASA-MARS-DATABASE/static/js/main.2710439d.js",
+    "static/js/544.0ac85b95.chunk.js": "/NASA-MARS-DATABASE/static/js/544.0ac85b95.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/NASA-MARS-DATABASE/static/js/787.28cb0dcd.chunk.js",
+    "static/js/509.1e9af03c.chunk.js": "/NASA-MARS-DATABASE/static/js/509.1e9af03c.chunk.js",
     "static/media/Background.jpg": "/NASA-MARS-DATABASE/static/media/Background.b9b884591dc484495e56.jpg",
     "static/media/logo.svg": "/NASA-MARS-DATABASE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NASA-MARS-DATABASE/index.html",
-    "main.b94dd61b.css.map": "/NASA-MARS-DATABASE/static/css/main.b94dd61b.css.map",
-    "main.b0556991.js.map": "/NASA-MARS-DATABASE/static/js/main.b0556991.js.map",
-    "787.28cb0dcd.chunk.js.map": "/NASA-MARS-DATABASE/static/js/787.28cb0dcd.chunk.js.map"
+    "main.7ea476de.css.map": "/NASA-MARS-DATABASE/static/css/main.7ea476de.css.map",
+    "main.2710439d.js.map": "/NASA-MARS-DATABASE/static/js/main.2710439d.js.map",
+    "544.0ac85b95.chunk.js.map": "/NASA-MARS-DATABASE/static/js/544.0ac85b95.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NASA-MARS-DATABASE/static/js/787.28cb0dcd.chunk.js.map",
+    "509.1e9af03c.chunk.js.map": "/NASA-MARS-DATABASE/static/js/509.1e9af03c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b94dd61b.css",
-    "static/js/main.b0556991.js"
+    "static/css/main.7ea476de.css",
+    "static/js/main.2710439d.js"
   ]
 }
