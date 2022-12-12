@@ -1,0 +1,157 @@
+
+.selectionPanel{
+  background-color: rgba(0, 0, 0, 0.616);
+  display: flex;
+  
+}
+button{
+  padding: .5rem;
+  margin: .5rem;
+  border-radius: 11px;
+  color: white;
+  background-color: rgba(255, 255, 255, 0);
+  border: .5px solid grey;
+  height: 2rem;
+  text-transform: uppercase;
+}
+button:hover{
+  background-color: green;
+  cursor: pointer;
+  transition: .5s;
+}
+.active{
+  color: rgb(102, 245, 7);
+  font: large;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: rgb(240, 248, 255);
+  border-radius: 5px;
+  
+}
+.complete{
+  color:red;
+  font: large;
+  text-transform: uppercase;
+  background-color: rgba(240, 248, 255, 0.918);
+  border-radius: 5px;
+}
+h2{
+  color: wheat;
+  text-align: center;
+}
+
+input{
+  height: 1.5rem;
+  max-width: 25%;
+  align-self: center;
+  margin: 0px;
+  text-align: center;
+  font-size: larger;
+}
+.desktopMsg{
+  visibility: hidden;
+}
+
+.sol{
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+ 
+}
+.submitBtn{
+  max-width: 10%;
+  align-self: center;
+  margin: 0;
+}
+.solItem{
+  margin-top: 0.5rem;
+ 
+}
+.displayBox{
+ 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.displayBoxItems{
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+ 
+}
+.displayBox img{
+  width: 100%;
+}
+.ractive{
+  background-color: green;
+}
+.dataComp{
+  display: flex;
+  flex-wrap: wrap;
+  width: 30%;
+  margin: 1rem;
+  background-color: rgba(0, 0, 0, 0.493);
+
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.topHeader{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.pages{
+  background-color: aliceblue;
+  width: 100%;
+}
+.activeBtn{
+  background-color: greenyellow;
+}
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+@media only screen and (max-width: 1030px) {
+  .selectionPanel{
+   min-width: 100vw;
+  }
+  .sol {
+  display: none;
+  }
+  .rovers{
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    height: 35vh;
+    background-color: rgba(0, 0, 0, 0.473);
+  }
+  button{
+    height: 2rem;
+    font-size: .7rem;
+    width: 20vw;
+    
+  }
+  .buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .desktopMsg{
+    color: red;
+    margin: 0;
+    text-align: center;
+    visibility: visible;
+  }
+  h2{
+    margin:0;
+  }
+  .dataComp{
+    width: 80vw;
+    flex-direction: column;
+  }
+}
